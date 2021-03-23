@@ -5036,6 +5036,10 @@ img {
   color: #1da1f2;
 }
 
+.cc-github:hover i {
+  color: #24292E;
+}
+
 .cc-google-plus:hover i {
   color: #dd4b39;
 }
