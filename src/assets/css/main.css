@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 * {
-  font-family: Quicksand;
+  font-family: 'helvetica';
 }
 .btn,
 .navbar .navbar-nav > a.btn {
